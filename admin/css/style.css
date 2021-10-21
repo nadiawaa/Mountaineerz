@@ -1,0 +1,21 @@
+.jumbotron{
+    text-align: center;
+}
+
+body {
+    background-image: url(../img/plane.jpg);
+    background-repeat:repeat-y;
+    background-attachment: fixed;
+    background-size: 10px;
+    position: fixed;
+}
+
+.jumbotron .display-4{
+    color : white;
+}
+
+footer {
+    position:fixed;
+    bottom: 0px;
+    align-items: center;
+}
